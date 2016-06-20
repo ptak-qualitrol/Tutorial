@@ -7,6 +7,6 @@ void display()
 int main()
 {
 	int x=0;
-	printf("Hello");
+	printf("Good");
 	return x;
 }
